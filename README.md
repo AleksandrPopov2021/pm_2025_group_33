@@ -6,8 +6,8 @@
 * Студент 2
 * Студент 3
 # Проектная информация
-* [Фаза 1](https://github.com/CallofSanitar/pm_2025_group_33/tree/main/phase1)
-* Фаза 2
+* [Фаза 1](https://github.com/AleksandrPopov2021/pm_2025_group_33/tree/main/phase1)
+* [Фаза 2](https://github.com/AleksandrPopov2021/pm_2025_group_33/tree/main/phase2)
 * Фаза 3
 * Фаза 4
 * Фаза 5
