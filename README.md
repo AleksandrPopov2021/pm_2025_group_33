@@ -9,5 +9,5 @@
 * [Фаза 1](https://github.com/AleksandrPopov2021/pm_2025_group_33/tree/main/phase1)
 * [Фаза 2](https://github.com/AleksandrPopov2021/pm_2025_group_33/tree/main/phase2)
 * [Фаза 3](https://github.com/AleksandrPopov2021/pm_2025_group_33/tree/main/phase3)
-* Фаза 4
-* Фаза 5
+* [Фаза 4](https://github.com/AleksandrPopov2021/pm_2025_group_33/tree/main/phase4)
+* [Фаза 5](https://github.com/AleksandrPopov2021/pm_2025_group_33/tree/main/phase5)
